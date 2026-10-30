@@ -1,0 +1,9 @@
+{
+  "version": "0.2.1",
+  "artifact": "Nectum-Legacy-Launcher-0.2.1.zip",
+  "size": 85732167,
+  "sha256": "79ec949748f99576a231589158e17f653bee28110de666a6f063164a45ef84a9",
+  "status": "awaiting-upload",
+  "platform": "Windows x64",
+  "executable": "Nectum.Legacy.Launcher.exe"
+}
