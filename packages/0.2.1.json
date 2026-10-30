@@ -3,7 +3,9 @@
   "artifact": "Nectum-Legacy-Launcher-0.2.1.zip",
   "size": 85732167,
   "sha256": "79ec949748f99576a231589158e17f653bee28110de666a6f063164a45ef84a9",
-  "status": "awaiting-upload",
+  "status": "published",
   "platform": "Windows x64",
-  "executable": "Nectum.Legacy.Launcher.exe"
+  "executable": "Nectum.Legacy.Launcher.exe",
+  "releaseUrl": "https://github.com/IRedStack/nectum-launcher-releases/releases/tag/v0.2.1",
+  "downloadUrl": "https://github.com/IRedStack/nectum-launcher-releases/releases/download/v0.2.1/Nectum-Legacy-Launcher-0.2.1.zip"
 }
